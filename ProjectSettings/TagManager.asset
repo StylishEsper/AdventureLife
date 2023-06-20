@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - TutorialRequirement
+  - Wall
+  - Barrel
+  - PlayerAttack
+  - EnemyAttack
+  - Decoration
+  - Slope
+  - Projectile
+  - Monster
+  - Item
+  - Reflectable
+  - Ball
+  - Breakable
+  - DarkEnergy
+  - UI
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Item
+  - Water
+  - UI
+  - Player
+  - PlayerAttack
+  - Enemy
+  - Barrel
+  - EnemyAttack
+  - Decoration
+  - Projectile
+  - NPC
+  - IgnoreAll
+  - Background
+  - Ghost
+  - InvisibleWall
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 1348259139
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: SelfLit
+    uniqueID: 823076317
+    locked: 0
+  - name: Player
+    uniqueID: 82426369
+    locked: 0
+  - name: UI
+    uniqueID: 890768309
+    locked: 0
+  - name: Ghost
+    uniqueID: 1851449475
+    locked: 0
+  - name: Projectile
+    uniqueID: 3999883209
+    locked: 0

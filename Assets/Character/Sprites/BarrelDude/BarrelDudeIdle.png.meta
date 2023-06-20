@@ -1,0 +1,497 @@
+fileFormatVersion: 2
+guid: 9f3522658ba00554bb5012aa61c14173
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4807543527255183714
+    second: BarrelDudeIdle_0
+  - first:
+      213: 1137329767084069719
+    second: BarrelDudeIdle_1
+  - first:
+      213: 3998429119155920102
+    second: BarrelDudeIdle_2
+  - first:
+      213: 5321281165126755745
+    second: BarrelDudeIdle_3
+  - first:
+      213: -6207017610182948252
+    second: BarrelDudeIdle_4
+  - first:
+      213: -7382837533981577790
+    second: BarrelDudeIdle_5
+  - first:
+      213: -3340485838252940530
+    second: BarrelDudeIdle_6
+  - first:
+      213: 4233926231505860709
+    second: BarrelDudeIdle_7
+  - first:
+      213: 5763449721674710462
+    second: BarrelDudeIdle_8
+  - first:
+      213: 8429477000870697020
+    second: BarrelDudeIdle_9
+  - first:
+      213: -6959388728609321320
+    second: BarrelDudeIdle_10
+  - first:
+      213: 7221116657493228929
+    second: BarrelDudeIdle_11
+  - first:
+      213: -5011179340291896370
+    second: BarrelDudeIdle_12
+  - first:
+      213: 2580800212609786978
+    second: BarrelDudeIdle_13
+  - first:
+      213: 8460285272753401658
+    second: BarrelDudeIdle_14
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 30
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BarrelDudeIdle_0
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 9
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9ee9b722ac284db0800000000000000
+      internalID: -4807543527255183714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarrelDudeIdle_1
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 9
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7531687b56b98cf00800000000000000
+      internalID: 1137329767084069719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarrelDudeIdle_2
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 9
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ecddda69164d7730800000000000000
+      internalID: 3998429119155920102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarrelDudeIdle_3
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 9
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a56b5db60df8d940800000000000000
+      internalID: 5321281165126755745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarrelDudeIdle_4
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 9
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46a8376ae5e3cd9a0800000000000000
+      internalID: -6207017610182948252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarrelDudeIdle_5
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 9
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cd6b98f064ea8990800000000000000
+      internalID: -7382837533981577790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarrelDudeIdle_6
+      rect:
+        serializedVersion: 2
+        x: 1241
+        y: 9
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e03e5b924d534a1d0800000000000000
+      internalID: -3340485838252940530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarrelDudeIdle_7
+      rect:
+        serializedVersion: 2
+        x: 1436
+        y: 9
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5687d1aa97de1ca30800000000000000
+      internalID: 4233926231505860709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarrelDudeIdle_8
+      rect:
+        serializedVersion: 2
+        x: 1631
+        y: 9
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebdbe3d5cf2ebff40800000000000000
+      internalID: 5763449721674710462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarrelDudeIdle_9
+      rect:
+        serializedVersion: 2
+        x: 1826
+        y: 9
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c381937cba48bf470800000000000000
+      internalID: 8429477000870697020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarrelDudeIdle_10
+      rect:
+        serializedVersion: 2
+        x: 2021
+        y: 9
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89e4261e2d84b6f90800000000000000
+      internalID: -6959388728609321320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarrelDudeIdle_11
+      rect:
+        serializedVersion: 2
+        x: 2216
+        y: 9
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18d3a83475f863460800000000000000
+      internalID: 7221116657493228929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarrelDudeIdle_12
+      rect:
+        serializedVersion: 2
+        x: 2411
+        y: 9
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecb002cb0f6b47ab0800000000000000
+      internalID: -5011179340291896370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarrelDudeIdle_13
+      rect:
+        serializedVersion: 2
+        x: 2606
+        y: 9
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 264ebd4ae18d0d320800000000000000
+      internalID: 2580800212609786978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarrelDudeIdle_14
+      rect:
+        serializedVersion: 2
+        x: 2801
+        y: 9
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3f6fec81a8f86570800000000000000
+      internalID: 8460285272753401658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      BarrelDudeIdle_1: 1137329767084069719
+      BarrelDudeIdle_13: 2580800212609786978
+      BarrelDudeIdle_2: 3998429119155920102
+      BarrelDudeIdle_10: -6959388728609321320
+      BarrelDudeIdle_11: 7221116657493228929
+      BarrelDudeIdle_6: -3340485838252940530
+      BarrelDudeIdle_5: -7382837533981577790
+      BarrelDudeIdle_7: 4233926231505860709
+      BarrelDudeIdle_14: 8460285272753401658
+      BarrelDudeIdle_12: -5011179340291896370
+      BarrelDudeIdle_9: 8429477000870697020
+      BarrelDudeIdle_4: -6207017610182948252
+      BarrelDudeIdle_8: 5763449721674710462
+      BarrelDudeIdle_0: -4807543527255183714
+      BarrelDudeIdle_3: 5321281165126755745
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

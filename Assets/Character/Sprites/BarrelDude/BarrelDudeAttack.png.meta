@@ -1,0 +1,547 @@
+fileFormatVersion: 2
+guid: fcec38f1ca145a848a592a109ab6275b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8200874845713182320
+    second: BarrelDudeAttack_0
+  - first:
+      213: 6443480628566168264
+    second: BarrelDudeAttack_1
+  - first:
+      213: -4276165890151304843
+    second: BarrelDudeAttack_2
+  - first:
+      213: -3856962570287891802
+    second: BarrelDudeAttack_3
+  - first:
+      213: -1167902973749185164
+    second: BarrelDudeAttack_4
+  - first:
+      213: 556093538145585514
+    second: BarrelDudeAttack_5
+  - first:
+      213: -8891122631324863142
+    second: BarrelDudeAttack_6
+  - first:
+      213: 5088100434602602177
+    second: BarrelDudeAttack_7
+  - first:
+      213: 7066962645037035267
+    second: BarrelDudeAttack_8
+  - first:
+      213: 7243728406020954628
+    second: BarrelDudeAttack_9
+  - first:
+      213: 9209664632868235958
+    second: BarrelDudeAttack_10
+  - first:
+      213: -3478411811699023068
+    second: BarrelDudeAttack_11
+  - first:
+      213: 646535925553951775
+    second: BarrelDudeAttack_12
+  - first:
+      213: -5444743420861120420
+    second: BarrelDudeAttack_13
+  - first:
+      213: 6486925502964675312
+    second: BarrelDudeAttack_14
+  - first:
+      213: -4445902499772249251
+    second: BarrelDudeAttack_15
+  - first:
+      213: -2064336029344694615
+    second: BarrelDudeAttack_16
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 30
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BarrelDudeAttack_0
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 15
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07eab2ad83c5fc170800000000000000
+      internalID: 8200874845713182320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarrelDudeAttack_1
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 14
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c21cce1e77db6950800000000000000
+      internalID: 6443480628566168264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarrelDudeAttack_2
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 15
+        width: 50
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 571b3ec67c108a4c0800000000000000
+      internalID: -4276165890151304843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarrelDudeAttack_3
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 15
+        width: 64
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aa33063af0597ac0800000000000000
+      internalID: -3856962570287891802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarrelDudeAttack_4
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 15
+        width: 74
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 475be85ee66cacfe0800000000000000
+      internalID: -1167902973749185164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarrelDudeAttack_5
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 15
+        width: 82
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a69ce0b6024a7b700800000000000000
+      internalID: 556093538145585514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarrelDudeAttack_6
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 15
+        width: 84
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a55f171f2136c9480800000000000000
+      internalID: -8891122631324863142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarrelDudeAttack_7
+      rect:
+        serializedVersion: 2
+        x: 1412
+        y: 15
+        width: 86
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ceaff923609c9640800000000000000
+      internalID: 5088100434602602177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarrelDudeAttack_8
+      rect:
+        serializedVersion: 2
+        x: 1606
+        y: 15
+        width: 88
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30f23625515e21260800000000000000
+      internalID: 7066962645037035267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarrelDudeAttack_9
+      rect:
+        serializedVersion: 2
+        x: 1813
+        y: 15
+        width: 88
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40a194a3b94e68460800000000000000
+      internalID: 7243728406020954628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarrelDudeAttack_10
+      rect:
+        serializedVersion: 2
+        x: 2008
+        y: 15
+        width: 88
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bae69e403d4fcf70800000000000000
+      internalID: 9209664632868235958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarrelDudeAttack_11
+      rect:
+        serializedVersion: 2
+        x: 2213
+        y: 15
+        width: 109
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 423282df2e23abfc0800000000000000
+      internalID: -3478411811699023068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarrelDudeAttack_12
+      rect:
+        serializedVersion: 2
+        x: 2386
+        y: 14
+        width: 202
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f14fb21bff4f8f800800000000000000
+      internalID: 646535925553951775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarrelDudeAttack_13
+      rect:
+        serializedVersion: 2
+        x: 2595
+        y: 15
+        width: 133
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c508d6ac4b26074b0800000000000000
+      internalID: -5444743420861120420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarrelDudeAttack_14
+      rect:
+        serializedVersion: 2
+        x: 2740
+        y: 15
+        width: 202
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f2b1a03060360a50800000000000000
+      internalID: 6486925502964675312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarrelDudeAttack_15
+      rect:
+        serializedVersion: 2
+        x: 2943
+        y: 15
+        width: 181
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5bcd0b5b3bfc42c0800000000000000
+      internalID: -4445902499772249251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarrelDudeAttack_16
+      rect:
+        serializedVersion: 2
+        x: 3124
+        y: 15
+        width: 166
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ae7ed191510a53e0800000000000000
+      internalID: -2064336029344694615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      BarrelDudeAttack_0: 8200874845713182320
+      BarrelDudeAttack_9: 7243728406020954628
+      BarrelDudeAttack_12: 646535925553951775
+      BarrelDudeAttack_5: 556093538145585514
+      BarrelDudeAttack_14: 6486925502964675312
+      BarrelDudeAttack_13: -5444743420861120420
+      BarrelDudeAttack_8: 7066962645037035267
+      BarrelDudeAttack_15: -4445902499772249251
+      BarrelDudeAttack_6: -8891122631324863142
+      BarrelDudeAttack_11: -3478411811699023068
+      BarrelDudeAttack_16: -2064336029344694615
+      BarrelDudeAttack_7: 5088100434602602177
+      BarrelDudeAttack_1: 6443480628566168264
+      BarrelDudeAttack_3: -3856962570287891802
+      BarrelDudeAttack_10: 9209664632868235958
+      BarrelDudeAttack_4: -1167902973749185164
+      BarrelDudeAttack_2: -4276165890151304843
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

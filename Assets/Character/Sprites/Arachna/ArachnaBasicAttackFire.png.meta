@@ -1,0 +1,672 @@
+fileFormatVersion: 2
+guid: dc5a0d8c19faaf34f88106af816c7dbf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1749003629594429370
+    second: ArachnaBasicAttackFire_0
+  - first:
+      213: -5830932844203665643
+    second: ArachnaBasicAttackFire_1
+  - first:
+      213: -1084614189001204585
+    second: ArachnaBasicAttackFire_2
+  - first:
+      213: -141829694869247166
+    second: ArachnaBasicAttackFire_3
+  - first:
+      213: 656989168442294036
+    second: ArachnaBasicAttackFire_4
+  - first:
+      213: 7361917511510970626
+    second: ArachnaBasicAttackFire_5
+  - first:
+      213: 8876204225473721975
+    second: ArachnaBasicAttackFire_6
+  - first:
+      213: -7772820804589225692
+    second: ArachnaBasicAttackFire_7
+  - first:
+      213: 5794527846882856491
+    second: ArachnaBasicAttackFire_8
+  - first:
+      213: 5232818746928260011
+    second: ArachnaBasicAttackFire_9
+  - first:
+      213: 5769361832416759036
+    second: ArachnaBasicAttackFire_10
+  - first:
+      213: 7885871350241546676
+    second: ArachnaBasicAttackFire_11
+  - first:
+      213: -8158512566504309779
+    second: ArachnaBasicAttackFire_12
+  - first:
+      213: -7027279616428021483
+    second: ArachnaBasicAttackFire_13
+  - first:
+      213: -5753107434175375375
+    second: ArachnaBasicAttackFire_14
+  - first:
+      213: -3404428820455427051
+    second: ArachnaBasicAttackFire_15
+  - first:
+      213: 6786443768265231386
+    second: ArachnaBasicAttackFire_16
+  - first:
+      213: 8823581978674780320
+    second: ArachnaBasicAttackFire_17
+  - first:
+      213: -1249067077004371906
+    second: ArachnaBasicAttackFire_18
+  - first:
+      213: 7160833856913547145
+    second: ArachnaBasicAttackFire_19
+  - first:
+      213: -2328151705571647428
+    second: ArachnaBasicAttackFire_20
+  - first:
+      213: 5419086067619691783
+    second: ArachnaBasicAttackFire_21
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 30
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ArachnaBasicAttackFire_0
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 305
+        width: 90
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 648b72b277a4ab7e0800000000000000
+      internalID: -1749003629594429370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArachnaBasicAttackFire_1
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 305
+        width: 90
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5171518c87d541fa0800000000000000
+      internalID: -5830932844203665643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArachnaBasicAttackFire_2
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 305
+        width: 90
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79c1c32442da2f0f0800000000000000
+      internalID: -1084614189001204585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArachnaBasicAttackFire_3
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 305
+        width: 90
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24b67bad4ae180ef0800000000000000
+      internalID: -141829694869247166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArachnaBasicAttackFire_4
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 205
+        width: 90
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41f3846fa281e1900800000000000000
+      internalID: 656989168442294036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArachnaBasicAttackFire_5
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 205
+        width: 90
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 201d65bb8f8ca2660800000000000000
+      internalID: 7361917511510970626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArachnaBasicAttackFire_6
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 205
+        width: 90
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 776be2507bc9e2b70800000000000000
+      internalID: 8876204225473721975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArachnaBasicAttackFire_7
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 205
+        width: 90
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42971bf09a4612490800000000000000
+      internalID: -7772820804589225692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArachnaBasicAttackFire_8
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 205
+        width: 90
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2ecf82406c4a6050800000000000000
+      internalID: 5794527846882856491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArachnaBasicAttackFire_9
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 205
+        width: 90
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba3e9a8fce4be9840800000000000000
+      internalID: 5232818746928260011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArachnaBasicAttackFire_10
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 105
+        width: 90
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfcc5e9e404e01050800000000000000
+      internalID: 5769361832416759036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArachnaBasicAttackFire_11
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 105
+        width: 90
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b1d39f363e307d60800000000000000
+      internalID: 7885871350241546676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArachnaBasicAttackFire_12
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 105
+        width: 90
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deb33f1eb0427ce80800000000000000
+      internalID: -8158512566504309779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArachnaBasicAttackFire_13
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 105
+        width: 90
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 519e675cb661a7e90800000000000000
+      internalID: -7027279616428021483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArachnaBasicAttackFire_14
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 105
+        width: 90
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f75157154bd820b0800000000000000
+      internalID: -5753107434175375375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArachnaBasicAttackFire_15
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 105
+        width: 90
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 514f6a5760a01c0d0800000000000000
+      internalID: -3404428820455427051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArachnaBasicAttackFire_16
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 5
+        width: 90
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1ccc9fa6aa4e2e50800000000000000
+      internalID: 6786443768265231386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArachnaBasicAttackFire_17
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 5
+        width: 90
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a8d27d6f09a37a70800000000000000
+      internalID: 8823581978674780320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArachnaBasicAttackFire_18
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 5
+        width: 90
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e38d48e7c1c6aaee0800000000000000
+      internalID: -1249067077004371906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArachnaBasicAttackFire_19
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 5
+        width: 90
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98f1ce00474606360800000000000000
+      internalID: 7160833856913547145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArachnaBasicAttackFire_20
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 5
+        width: 90
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c30ae2edb5eb0bfd0800000000000000
+      internalID: -2328151705571647428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArachnaBasicAttackFire_21
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 5
+        width: 90
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70d7db32116743b40800000000000000
+      internalID: 5419086067619691783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      ArachnaBasicAttackFire_18: -1249067077004371906
+      ArachnaBasicAttackFire_10: 5769361832416759036
+      ArachnaBasicAttackFire_1: -5830932844203665643
+      ArachnaBasicAttackFire_16: 6786443768265231386
+      ArachnaBasicAttackFire_0: -1749003629594429370
+      ArachnaBasicAttackFire_9: 5232818746928260011
+      ArachnaBasicAttackFire_5: 7361917511510970626
+      ArachnaBasicAttackFire_15: -3404428820455427051
+      ArachnaBasicAttackFire_7: -7772820804589225692
+      ArachnaBasicAttackFire_8: 5794527846882856491
+      ArachnaBasicAttackFire_11: 7885871350241546676
+      ArachnaBasicAttackFire_17: 8823581978674780320
+      ArachnaBasicAttackFire_6: 8876204225473721975
+      ArachnaBasicAttackFire_19: 7160833856913547145
+      ArachnaBasicAttackFire_13: -7027279616428021483
+      ArachnaBasicAttackFire_21: 5419086067619691783
+      ArachnaBasicAttackFire_14: -5753107434175375375
+      ArachnaBasicAttackFire_12: -8158512566504309779
+      ArachnaBasicAttackFire_4: 656989168442294036
+      ArachnaBasicAttackFire_2: -1084614189001204585
+      ArachnaBasicAttackFire_3: -141829694869247166
+      ArachnaBasicAttackFire_20: -2328151705571647428
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

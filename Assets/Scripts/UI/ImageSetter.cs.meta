@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 388ea951c018759449bda6c9d426be67
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - player: {instanceID: 0}
+  - enemy: {instanceID: 0}
+  - image: {instanceID: 0}
+  - waterIcon: {fileID: 21300000, guid: f23deb158e6a233419e75003a6fb7fd7, type: 3}
+  - fireIcon: {fileID: 21300000, guid: 2a8ad50496b448e48ac3933222eb4bd2, type: 3}
+  - electricIcon: {fileID: 21300000, guid: b7e655513332c6f48b9e866c83b5e481, type: 3}
+  - iceIcon: {fileID: 21300000, guid: bd74777974ee210448ecef68dc44eeda, type: 3}
+  - woodIcon: {fileID: 21300000, guid: 59991218dc7d6c84d93d673572f4a196, type: 3}
+  - windIcon: {fileID: 21300000, guid: 6de14f48b2cc6b94594b538c8613159f, type: 3}
+  - poisonIcon: {fileID: 21300000, guid: f7fc8f9cc11076e4ba64d586a599af02, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

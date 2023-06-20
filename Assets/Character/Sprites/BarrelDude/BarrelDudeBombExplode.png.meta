@@ -1,0 +1,374 @@
+fileFormatVersion: 2
+guid: 6166ffd75f0dab948887d2c1c7901af0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6422483859495158058
+    second: BarrelDudeAttackNoBarrel 1_0
+  - first:
+      213: 1432203446834865697
+    second: BarrelDudeAttackNoBarrel 1_1
+  - first:
+      213: 1687804975253908181
+    second: BarrelDudeAttackNoBarrel 1_2
+  - first:
+      213: 687593268561424710
+    second: BarrelDudeAttackNoBarrel 1_3
+  - first:
+      213: 7792113070402579785
+    second: BarrelDudeAttackNoBarrel 1_4
+  - first:
+      213: 6059338530995571960
+    second: BarrelDudeAttackNoBarrel 1_5
+  - first:
+      213: -1920447063672142610
+    second: BarrelDudeAttackNoBarrel 1_6
+  - first:
+      213: 60994226565108936
+    second: BarrelDudeAttackNoBarrel 1_7
+  - first:
+      213: -7054794093618879415
+    second: BarrelDudeAttackNoBarrel 1_8
+  - first:
+      213: -7894075311001144720
+    second: BarrelDudeAttackNoBarrel 1_9
+  - first:
+      213: -5656303536535699178
+    second: BarrelDudeAttackNoBarrel 1_10
+  - first:
+      213: 1191860137828049200
+    second: BarrelDudeAttackNoBarrel 1_11
+  - first:
+      213: 100975077316169137
+    second: BarrelDudeAttackNoBarrel 1_12
+  - first:
+      213: 7505119502513938692
+    second: BarrelDudeAttackNoBarrel 1_13
+  - first:
+      213: 7481738191812051624
+    second: BarrelDudeAttackNoBarrel 1_14
+  - first:
+      213: -7598617229260047433
+    second: BarrelDudeAttackNoBarrel 1_15
+  - first:
+      213: 5519845510779992039
+    second: BarrelDudeAttackNoBarrel 1_16
+  - first:
+      213: 1496989802255584557
+    second: BarrelDudeBombExplode_17
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 30
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BarrelDudeAttackNoBarrel 1_9
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 160
+        width: 220
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0727899445c927290800000000000000
+      internalID: -7894075311001144720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarrelDudeAttackNoBarrel 1_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 220
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6110103e6e5c081b0800000000000000
+      internalID: -5656303536535699178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarrelDudeAttackNoBarrel 1_11
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 80
+        width: 220
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03160390b765a8010800000000000000
+      internalID: 1191860137828049200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarrelDudeAttackNoBarrel 1_12
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 80
+        width: 220
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bd099e3c4cb66100800000000000000
+      internalID: 100975077316169137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarrelDudeAttackNoBarrel 1_13
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 80
+        width: 220
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40123387c6a872860800000000000000
+      internalID: 7505119502513938692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarrelDudeAttackNoBarrel 1_14
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 80
+        width: 220
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a24e69de3974d760800000000000000
+      internalID: 7481738191812051624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarrelDudeAttackNoBarrel 1_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 220
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bbbac1a3e94c8690800000000000000
+      internalID: -7598617229260047433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarrelDudeAttackNoBarrel 1_16
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 0
+        width: 220
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e773152f3e6a9c40800000000000000
+      internalID: 5519845510779992039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarrelDudeBombExplode_17
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 0
+        width: 220
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2d83d33b4066c410800000000000000
+      internalID: 1496989802255584557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      BarrelDudeAttackNoBarrel 1_16: 5519845510779992039
+      BarrelDudeAttackNoBarrel 1_11: 1191860137828049200
+      BarrelDudeBombExplode_17: 1496989802255584557
+      BarrelDudeAttackNoBarrel 1_10: -5656303536535699178
+      BarrelDudeAttackNoBarrel 1_12: 100975077316169137
+      BarrelDudeAttackNoBarrel 1_9: -7894075311001144720
+      BarrelDudeAttackNoBarrel 1_14: 7481738191812051624
+      BarrelDudeAttackNoBarrel 1_13: 7505119502513938692
+      BarrelDudeAttackNoBarrel 1_15: -7598617229260047433
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

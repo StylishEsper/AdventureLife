@@ -1,0 +1,1997 @@
+fileFormatVersion: 2
+guid: 50908337ebe2e7044a0b3c12238d9d8f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4604017757726100116
+    second: DarkEnergy.png.png_0
+  - first:
+      213: 5280376423175190643
+    second: DarkEnergy.png.png_1
+  - first:
+      213: -6177164022419270372
+    second: DarkEnergy.png.png_2
+  - first:
+      213: -8904419642958117202
+    second: DarkEnergy.png.png_3
+  - first:
+      213: 1864007631457515834
+    second: DarkEnergy.png.png_4
+  - first:
+      213: 7444131995093051280
+    second: DarkEnergy.png.png_5
+  - first:
+      213: 5847451741317942821
+    second: DarkEnergy.png.png_6
+  - first:
+      213: 1884685995501511913
+    second: DarkEnergy.png.png_7
+  - first:
+      213: -731282963927124320
+    second: DarkEnergy.png.png_8
+  - first:
+      213: -3431346757610575291
+    second: DarkEnergy.png.png_9
+  - first:
+      213: -4419362166122343144
+    second: DarkEnergy.png.png_10
+  - first:
+      213: -9149486694580530037
+    second: DarkEnergy.png.png_11
+  - first:
+      213: 5490625414564097691
+    second: DarkEnergy.png.png_12
+  - first:
+      213: -3372881212340479888
+    second: DarkEnergy.png.png_13
+  - first:
+      213: 4606589339172011917
+    second: DarkEnergy.png.png_14
+  - first:
+      213: 5444179652612139033
+    second: DarkEnergy.png.png_15
+  - first:
+      213: 7410343577842587768
+    second: DarkEnergy.png.png_16
+  - first:
+      213: -2748572431875279061
+    second: DarkEnergy.png.png_17
+  - first:
+      213: 1237475355712457355
+    second: DarkEnergy.png.png_18
+  - first:
+      213: -2926651757350380648
+    second: DarkEnergy.png.png_19
+  - first:
+      213: -8613751354965916120
+    second: DarkEnergy.png.png_20
+  - first:
+      213: -3350713793231230962
+    second: DarkEnergy.png.png_21
+  - first:
+      213: -7175409424501805076
+    second: DarkEnergy.png.png_22
+  - first:
+      213: 1035327816737538466
+    second: DarkEnergy.png.png_23
+  - first:
+      213: 8300491479521812926
+    second: DarkEnergy.png.png_24
+  - first:
+      213: 4403080899502956562
+    second: DarkEnergy.png.png_25
+  - first:
+      213: -8457365362499630783
+    second: DarkEnergy.png.png_26
+  - first:
+      213: -526797261929076301
+    second: DarkEnergy.png.png_27
+  - first:
+      213: -112435140763415388
+    second: DarkEnergy.png.png_28
+  - first:
+      213: 2877074898131536038
+    second: DarkEnergy.png.png_29
+  - first:
+      213: 9066011989339860635
+    second: DarkEnergy.png.png_30
+  - first:
+      213: 6680830140457425410
+    second: DarkEnergy.png.png_31
+  - first:
+      213: 213981431698984494
+    second: DarkEnergy.png.png_32
+  - first:
+      213: 6998377106072997195
+    second: DarkEnergy.png.png_33
+  - first:
+      213: 6925567841938904406
+    second: DarkEnergy.png.png_34
+  - first:
+      213: -5697159628850669553
+    second: DarkEnergy.png.png_35
+  - first:
+      213: -2333286681970698767
+    second: DarkEnergy.png.png_36
+  - first:
+      213: -7780015017170273869
+    second: DarkEnergy.png.png_37
+  - first:
+      213: -558059546085962337
+    second: DarkEnergy.png.png_38
+  - first:
+      213: -4087602611914131097
+    second: DarkEnergy.png.png_39
+  - first:
+      213: -716112253544823073
+    second: DarkEnergy.png.png_40
+  - first:
+      213: -2055333885540480495
+    second: DarkEnergy.png.png_41
+  - first:
+      213: -7775268113240274024
+    second: DarkEnergy.png.png_42
+  - first:
+      213: 552951124358968918
+    second: DarkEnergy.png.png_43
+  - first:
+      213: 189265589295288331
+    second: DarkEnergy.png.png_44
+  - first:
+      213: 5074389198991324361
+    second: DarkEnergy.png.png_45
+  - first:
+      213: -662917566351383496
+    second: DarkEnergy.png.png_46
+  - first:
+      213: 9093107770453387698
+    second: DarkEnergy.png.png_47
+  - first:
+      213: 4253900820385328334
+    second: DarkEnergy.png.png_48
+  - first:
+      213: -6430066204151193102
+    second: DarkEnergy.png.png_49
+  - first:
+      213: 221066414363757215
+    second: DarkEnergy.png.png_50
+  - first:
+      213: -3597575674257877535
+    second: DarkEnergy.png.png_51
+  - first:
+      213: -3895533626336713718
+    second: DarkEnergy.png.png_52
+  - first:
+      213: -5158856442251154169
+    second: DarkEnergy.png.png_53
+  - first:
+      213: 896344646267617425
+    second: DarkEnergy.png.png_54
+  - first:
+      213: -4131805368363045361
+    second: DarkEnergy.png.png_55
+  - first:
+      213: -7094695673672737990
+    second: DarkEnergy.png.png_56
+  - first:
+      213: -4595153210337820308
+    second: DarkEnergy.png.png_57
+  - first:
+      213: 4617627427749214227
+    second: DarkEnergy.png.png_58
+  - first:
+      213: 5795007494300886576
+    second: DarkEnergy.png.png_59
+  - first:
+      213: -1285961313593832374
+    second: DarkEnergy.png.png_60
+  - first:
+      213: -289928428365748212
+    second: DarkEnergy.png.png_61
+  - first:
+      213: 7899758826703953049
+    second: DarkEnergy.png.png_62
+  - first:
+      213: -4696776915908982082
+    second: DarkEnergy.png.png_63
+  - first:
+      213: 6531367814825098077
+    second: DarkEnergy.png.png_64
+  - first:
+      213: -2879114616188163434
+    second: DarkEnergy.png.png_65
+  - first:
+      213: -2474425625883283834
+    second: DarkEnergy.png.png_66
+  - first:
+      213: -1075380250062819775
+    second: DarkEnergy.png.png_67
+  - first:
+      213: -2088778123607400210
+    second: DarkEnergy.png.png_68
+  - first:
+      213: 3393159409354386554
+    second: DarkEnergy.png.png_69
+  - first:
+      213: 4706541716510340603
+    second: DarkEnergy.png.png_70
+  - first:
+      213: -6185112492116756013
+    second: DarkEnergy.png.png_71
+  - first:
+      213: 3188035991750553565
+    second: DarkEnergy.png.png_72
+  - first:
+      213: 1604141055888120557
+    second: DarkEnergy.png.png_73
+  - first:
+      213: -6589845394956916541
+    second: DarkEnergy.png.png_74
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 30
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DarkEnergy.png.png_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 800
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6535231e3e3b10c0800000000000000
+      internalID: -4604017757726100116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkEnergy.png.png_1
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 800
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37874b7516aa74940800000000000000
+      internalID: 5280376423175190643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkEnergy.png.png_2
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 800
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c155064bc0e464aa0800000000000000
+      internalID: -6177164022419270372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkEnergy.png.png_3
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 800
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea6887a23852d6480800000000000000
+      internalID: -8904419642958117202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkEnergy.png.png_4
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 800
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3974ab90194ed910800000000000000
+      internalID: 1864007631457515834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkEnergy.png.png_5
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 800
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09724acdb9ede4760800000000000000
+      internalID: 7444131995093051280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkEnergy.png.png_6
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 800
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52ece7aa062562150800000000000000
+      internalID: 5847451741317942821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkEnergy.png.png_7
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 800
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e4650b6defb72a10800000000000000
+      internalID: 1884685995501511913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkEnergy.png.png_8
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 800
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a634d0d406f9d5f0800000000000000
+      internalID: -731282963927124320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkEnergy.png.png_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 700
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54aee63dd486160d0800000000000000
+      internalID: -3431346757610575291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkEnergy.png.png_10
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 700
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8151a7256854ba2c0800000000000000
+      internalID: -4419362166122343144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkEnergy.png.png_11
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 700
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b845d5cc35e760180800000000000000
+      internalID: -9149486694580530037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkEnergy.png.png_12
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 700
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9e23d559be923c40800000000000000
+      internalID: 5490625414564097691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkEnergy.png.png_13
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 700
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0785bdc586e1131d0800000000000000
+      internalID: -3372881212340479888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkEnergy.png.png_14
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 700
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8ff273e894edef30800000000000000
+      internalID: 4606589339172011917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkEnergy.png.png_15
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 700
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9182b5fac8c9d8b40800000000000000
+      internalID: 5444179652612139033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkEnergy.png.png_16
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 700
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87897ece834d6d660800000000000000
+      internalID: 7410343577842587768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkEnergy.png.png_17
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 700
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2774ae8feb1bd9d0800000000000000
+      internalID: -2748572431875279061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkEnergy.png.png_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 600
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8a8a8397456c2110800000000000000
+      internalID: 1237475355712457355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkEnergy.png.png_19
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 600
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89b9bd59bb17267d0800000000000000
+      internalID: -2926651757350380648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkEnergy.png.png_20
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 600
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82687bfb7cec57880800000000000000
+      internalID: -8613751354965916120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkEnergy.png.png_21
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 600
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e086372de8fdf71d0800000000000000
+      internalID: -3350713793231230962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkEnergy.png.png_22
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 600
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cef64963523db6c90800000000000000
+      internalID: -7175409424501805076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkEnergy.png.png_23
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 600
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a1c8b6f9293e5e00800000000000000
+      internalID: 1035327816737538466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkEnergy.png.png_24
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 600
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb1ed02d505413370800000000000000
+      internalID: 8300491479521812926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkEnergy.png.png_25
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 600
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2106e24efb2ea1d30800000000000000
+      internalID: 4403080899502956562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkEnergy.png.png_26
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 600
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1494488030761aa80800000000000000
+      internalID: -8457365362499630783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkEnergy.png.png_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 500
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b9a11e6ea070b8f0800000000000000
+      internalID: -526797261929076301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkEnergy.png.png_28
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 500
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ac868ec5dc807ef0800000000000000
+      internalID: -112435140763415388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkEnergy.png.png_29
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 500
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a8c25f506c6de720800000000000000
+      internalID: 2877074898131536038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkEnergy.png.png_30
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 500
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9ee80aded1f0dd70800000000000000
+      internalID: 9066011989339860635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkEnergy.png.png_31
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 500
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20a10bebd9317bc50800000000000000
+      internalID: 6680830140457425410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkEnergy.png.png_32
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 500
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2e82f87af638f200800000000000000
+      internalID: 213981431698984494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkEnergy.png.png_33
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 500
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4d05b326ea3f1160800000000000000
+      internalID: 6998377106072997195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkEnergy.png.png_34
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 500
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65513ae424f8c1060800000000000000
+      internalID: 6925567841938904406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkEnergy.png.png_35
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 500
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f08d8ad908f9fe0b0800000000000000
+      internalID: -5697159628850669553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkEnergy.png.png_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 400
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f59cf100208e9fd0800000000000000
+      internalID: -2333286681970698767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkEnergy.png.png_37
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 400
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b97c5aef85d70490800000000000000
+      internalID: -7780015017170273869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkEnergy.png.png_38
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 400
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9dc700bccf5148f0800000000000000
+      internalID: -558059546085962337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkEnergy.png.png_39
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 400
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76936edd41be547c0800000000000000
+      internalID: -4087602611914131097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkEnergy.png.png_40
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 400
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd6082413bbdf06f0800000000000000
+      internalID: -716112253544823073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkEnergy.png.png_41
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 400
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11a498188bcf973e0800000000000000
+      internalID: -2055333885540480495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkEnergy.png.png_42
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 400
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89b44ec98d2b81490800000000000000
+      internalID: -7775268113240274024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkEnergy.png.png_43
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 400
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 656b1913e1a7ca700800000000000000
+      internalID: 552951124358968918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkEnergy.png.png_44
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 400
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b00962afc0860a200800000000000000
+      internalID: 189265589295288331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkEnergy.png.png_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 300
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c4f4f9571adb6640800000000000000
+      internalID: 5074389198991324361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkEnergy.png.png_46
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 300
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83462465cf7dcc6f0800000000000000
+      internalID: -662917566351383496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkEnergy.png.png_47
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 300
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b9e7320755313e70800000000000000
+      internalID: 9093107770453387698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkEnergy.png.png_48
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 300
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecc6fcc0244e80b30800000000000000
+      internalID: 4253900820385328334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkEnergy.png.png_49
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 300
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f1e253fad0d3c6a0800000000000000
+      internalID: -6430066204151193102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkEnergy.png.png_50
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 300
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9acbeb8bb2611300800000000000000
+      internalID: 221066414363757215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkEnergy.png.png_51
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 300
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e5d54b2cf7d21ec0800000000000000
+      internalID: -3597575674257877535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkEnergy.png.png_52
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 300
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a046c976ec840f9c0800000000000000
+      internalID: -3895533626336713718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkEnergy.png.png_53
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 300
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70d6268066f0868b0800000000000000
+      internalID: -5158856442251154169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkEnergy.png.png_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 200
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 190ca1de4b4707c00800000000000000
+      internalID: 896344646267617425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkEnergy.png.png_55
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 200
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0e2ba1a8e0e8a6c0800000000000000
+      internalID: -4131805368363045361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkEnergy.png.png_56
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 200
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3b5c35cfd39a8d90800000000000000
+      internalID: -7094695673672737990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkEnergy.png.png_57
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 200
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c618159508cba30c0800000000000000
+      internalID: -4595153210337820308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkEnergy.png.png_58
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 200
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 318b7182eab151040800000000000000
+      internalID: 4617627427749214227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkEnergy.png.png_59
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 200
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 036e780ec900c6050800000000000000
+      internalID: 5795007494300886576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkEnergy.png.png_60
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 200
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4c4854aff8572ee0800000000000000
+      internalID: -1285961313593832374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkEnergy.png.png_61
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 200
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c08e8f861a7f9fbf0800000000000000
+      internalID: -289928428365748212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkEnergy.png.png_62
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 200
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99c12f45cc491ad60800000000000000
+      internalID: 7899758826703953049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkEnergy.png.png_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eba8df19742b1deb0800000000000000
+      internalID: -4696776915908982082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkEnergy.png.png_64
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5bb1144c6414aa50800000000000000
+      internalID: 6531367814825098077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkEnergy.png.png_65
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69a2872c2845b08d0800000000000000
+      internalID: -2879114616188163434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkEnergy.png.png_66
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68e6a1ad00319add0800000000000000
+      internalID: -2474425625883283834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkEnergy.png.png_67
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14ee8843c5b7311f0800000000000000
+      internalID: -1075380250062819775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkEnergy.png.png_68
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee026c70d5b2303e0800000000000000
+      internalID: -2088778123607400210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkEnergy.png.png_69
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7ca7dc418ce61f20800000000000000
+      internalID: 3393159409354386554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkEnergy.png.png_70
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf5f72d31cef05140800000000000000
+      internalID: 4706541716510340603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkEnergy.png.png_71
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d9bc8365f01a2aa0800000000000000
+      internalID: -6185112492116756013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkEnergy.png.png_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddfa373f7dd2e3c20800000000000000
+      internalID: 3188035991750553565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkEnergy.png.png_73
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dead4dd8acd034610800000000000000
+      internalID: 1604141055888120557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkEnergy.png.png_74
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c869dc178a2c84a0800000000000000
+      internalID: -6589845394956916541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      DarkEnergy.png.png_45: 5074389198991324361
+      DarkEnergy.png.png_16: 7410343577842587768
+      DarkEnergy.png.png_23: 1035327816737538466
+      DarkEnergy.png.png_44: 189265589295288331
+      DarkEnergy.png.png_53: -5158856442251154169
+      DarkEnergy.png.png_55: -4131805368363045361
+      DarkEnergy.png.png_46: -662917566351383496
+      DarkEnergy.png.png_25: 4403080899502956562
+      DarkEnergy.png.png_67: -1075380250062819775
+      DarkEnergy.png.png_48: 4253900820385328334
+      DarkEnergy.png.png_58: 4617627427749214227
+      DarkEnergy.png.png_31: 6680830140457425410
+      DarkEnergy.png.png_35: -5697159628850669553
+      DarkEnergy.png.png_0: -4604017757726100116
+      DarkEnergy.png.png_32: 213981431698984494
+      DarkEnergy.png.png_39: -4087602611914131097
+      DarkEnergy.png.png_62: 7899758826703953049
+      DarkEnergy.png.png_72: 3188035991750553565
+      DarkEnergy.png.png_66: -2474425625883283834
+      DarkEnergy.png.png_42: -7775268113240274024
+      DarkEnergy.png.png_24: 8300491479521812926
+      DarkEnergy.png.png_15: 5444179652612139033
+      DarkEnergy.png.png_1: 5280376423175190643
+      DarkEnergy.png.png_22: -7175409424501805076
+      DarkEnergy.png.png_7: 1884685995501511913
+      DarkEnergy.png.png_8: -731282963927124320
+      DarkEnergy.png.png_12: 5490625414564097691
+      DarkEnergy.png.png_36: -2333286681970698767
+      DarkEnergy.png.png_43: 552951124358968918
+      DarkEnergy.png.png_63: -4696776915908982082
+      DarkEnergy.png.png_73: 1604141055888120557
+      DarkEnergy.png.png_3: -8904419642958117202
+      DarkEnergy.png.png_70: 4706541716510340603
+      DarkEnergy.png.png_61: -289928428365748212
+      DarkEnergy.png.png_14: 4606589339172011917
+      DarkEnergy.png.png_26: -8457365362499630783
+      DarkEnergy.png.png_21: -3350713793231230962
+      DarkEnergy.png.png_30: 9066011989339860635
+      DarkEnergy.png.png_38: -558059546085962337
+      DarkEnergy.png.png_13: -3372881212340479888
+      DarkEnergy.png.png_47: 9093107770453387698
+      DarkEnergy.png.png_34: 6925567841938904406
+      DarkEnergy.png.png_37: -7780015017170273869
+      DarkEnergy.png.png_20: -8613751354965916120
+      DarkEnergy.png.png_59: 5795007494300886576
+      DarkEnergy.png.png_40: -716112253544823073
+      DarkEnergy.png.png_4: 1864007631457515834
+      DarkEnergy.png.png_68: -2088778123607400210
+      DarkEnergy.png.png_65: -2879114616188163434
+      DarkEnergy.png.png_9: -3431346757610575291
+      DarkEnergy.png.png_41: -2055333885540480495
+      DarkEnergy.png.png_17: -2748572431875279061
+      DarkEnergy.png.png_28: -112435140763415388
+      DarkEnergy.png.png_2: -6177164022419270372
+      DarkEnergy.png.png_49: -6430066204151193102
+      DarkEnergy.png.png_64: 6531367814825098077
+      DarkEnergy.png.png_54: 896344646267617425
+      DarkEnergy.png.png_18: 1237475355712457355
+      DarkEnergy.png.png_27: -526797261929076301
+      DarkEnergy.png.png_29: 2877074898131536038
+      DarkEnergy.png.png_57: -4595153210337820308
+      DarkEnergy.png.png_33: 6998377106072997195
+      DarkEnergy.png.png_6: 5847451741317942821
+      DarkEnergy.png.png_51: -3597575674257877535
+      DarkEnergy.png.png_56: -7094695673672737990
+      DarkEnergy.png.png_71: -6185112492116756013
+      DarkEnergy.png.png_69: 3393159409354386554
+      DarkEnergy.png.png_52: -3895533626336713718
+      DarkEnergy.png.png_10: -4419362166122343144
+      DarkEnergy.png.png_50: 221066414363757215
+      DarkEnergy.png.png_11: -9149486694580530037
+      DarkEnergy.png.png_5: 7444131995093051280
+      DarkEnergy.png.png_19: -2926651757350380648
+      DarkEnergy.png.png_60: -1285961313593832374
+      DarkEnergy.png.png_74: -6589845394956916541
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

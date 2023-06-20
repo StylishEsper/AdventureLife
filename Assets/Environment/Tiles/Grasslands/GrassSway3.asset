@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9df11d2ad44624917bf3586aa9303279, type: 3}
+  m_Name: GrassSway3
+  m_EditorClassIdentifier: 
+  m_AnimatedSprites:
+  - {fileID: 8560452657497946619, guid: bbf0f0209a446f2419d0316474478dac, type: 3}
+  - {fileID: -7753185097844521620, guid: bbf0f0209a446f2419d0316474478dac, type: 3}
+  - {fileID: -2792657594458133693, guid: bbf0f0209a446f2419d0316474478dac, type: 3}
+  m_MinSpeed: 3.5
+  m_MaxSpeed: 3.5
+  m_AnimationStartTime: 0
+  m_TileColliderType: 0

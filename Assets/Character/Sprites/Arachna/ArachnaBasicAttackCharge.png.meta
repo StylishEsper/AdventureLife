@@ -1,0 +1,2372 @@
+fileFormatVersion: 2
+guid: 6c637113a1caaa0478a5673bb9952b26
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4602359905808521146
+    second: ArachnaBasicAttackCharge_0
+  - first:
+      213: 3458774900009117894
+    second: ArachnaBasicAttackCharge_1
+  - first:
+      213: 6399446059475454451
+    second: ArachnaBasicAttackCharge_2
+  - first:
+      213: -6650659130615657952
+    second: ArachnaBasicAttackCharge_3
+  - first:
+      213: -6211236256695970737
+    second: ArachnaBasicAttackCharge_4
+  - first:
+      213: -6690503013282917605
+    second: ArachnaBasicAttackCharge_5
+  - first:
+      213: 283573270674838656
+    second: ArachnaBasicAttackCharge_6
+  - first:
+      213: 6629681638830623328
+    second: ArachnaBasicAttackCharge_7
+  - first:
+      213: 2784029728045298698
+    second: ArachnaBasicAttackCharge_8
+  - first:
+      213: -4133093787341160640
+    second: ArachnaBasicAttackCharge_9
+  - first:
+      213: 2466479913405510387
+    second: ArachnaBasicAttackCharge_10
+  - first:
+      213: 7150490962011595637
+    second: ArachnaBasicAttackCharge_11
+  - first:
+      213: 3178767751347853142
+    second: ArachnaBasicAttackCharge_12
+  - first:
+      213: -279628907663708387
+    second: ArachnaBasicAttackCharge_13
+  - first:
+      213: 2987386067659168045
+    second: ArachnaBasicAttackCharge_14
+  - first:
+      213: 1303809856002941504
+    second: ArachnaBasicAttackCharge_15
+  - first:
+      213: -973756772796116347
+    second: ArachnaBasicAttackCharge_16
+  - first:
+      213: 3413926092313610126
+    second: ArachnaBasicAttackCharge_17
+  - first:
+      213: 6110673892456597843
+    second: ArachnaBasicAttackCharge_18
+  - first:
+      213: 7861745390237008042
+    second: ArachnaBasicAttackCharge_19
+  - first:
+      213: 1532290770996421979
+    second: ArachnaBasicAttackCharge_20
+  - first:
+      213: 7441434140899802929
+    second: ArachnaBasicAttackCharge_21
+  - first:
+      213: -5770317848044224384
+    second: ArachnaBasicAttackCharge_22
+  - first:
+      213: -417584806393534136
+    second: ArachnaBasicAttackCharge_23
+  - first:
+      213: 403656199055532696
+    second: ArachnaBasicAttackCharge_24
+  - first:
+      213: -4697702128648489840
+    second: ArachnaBasicAttackCharge_25
+  - first:
+      213: 8880129703066116997
+    second: ArachnaBasicAttackCharge_26
+  - first:
+      213: 2627570254590519655
+    second: ArachnaBasicAttackCharge_27
+  - first:
+      213: 2614755391997989532
+    second: ArachnaBasicAttackCharge_28
+  - first:
+      213: 4279279940566585092
+    second: ArachnaBasicAttackCharge_29
+  - first:
+      213: -1544557235205849780
+    second: ArachnaBasicAttackCharge_30
+  - first:
+      213: -23480071028632842
+    second: ArachnaBasicAttackCharge_31
+  - first:
+      213: 7086499453920417240
+    second: ArachnaBasicAttackCharge_32
+  - first:
+      213: 4404408375766972781
+    second: ArachnaBasicAttackCharge_33
+  - first:
+      213: -5600647310657921489
+    second: ArachnaBasicAttackCharge_34
+  - first:
+      213: 2562375556466281224
+    second: ArachnaBasicAttackCharge_35
+  - first:
+      213: 7262664618622820356
+    second: ArachnaBasicAttackCharge_36
+  - first:
+      213: -6007828391292005282
+    second: ArachnaBasicAttackCharge_37
+  - first:
+      213: 2182909386832968240
+    second: ArachnaBasicAttackCharge_38
+  - first:
+      213: 219600986709834477
+    second: ArachnaBasicAttackCharge_39
+  - first:
+      213: 857937423145811861
+    second: ArachnaBasicAttackCharge_40
+  - first:
+      213: 3098999008299680232
+    second: ArachnaBasicAttackCharge_41
+  - first:
+      213: -2388840295531001233
+    second: ArachnaBasicAttackCharge_42
+  - first:
+      213: 7729127945873252732
+    second: ArachnaBasicAttackCharge_43
+  - first:
+      213: -2942580636929732773
+    second: ArachnaBasicAttackCharge_44
+  - first:
+      213: 1906911951974728056
+    second: ArachnaBasicAttackCharge_45
+  - first:
+      213: 6871585156954155448
+    second: ArachnaBasicAttackCharge_46
+  - first:
+      213: 6877317356779225957
+    second: ArachnaBasicAttackCharge_47
+  - first:
+      213: -2111914618883095930
+    second: ArachnaBasicAttackCharge_48
+  - first:
+      213: -8155462936497507311
+    second: ArachnaBasicAttackCharge_49
+  - first:
+      213: 5980293693961077736
+    second: ArachnaBasicAttackCharge_50
+  - first:
+      213: -6577486756056089088
+    second: ArachnaBasicAttackCharge_51
+  - first:
+      213: -164253281710473740
+    second: ArachnaBasicAttackCharge_52
+  - first:
+      213: 4375399523062210661
+    second: ArachnaBasicAttackCharge_53
+  - first:
+      213: 550812014998706813
+    second: ArachnaBasicAttackCharge_54
+  - first:
+      213: -5765166912307970126
+    second: ArachnaBasicAttackCharge_55
+  - first:
+      213: 7594890646318950253
+    second: ArachnaBasicAttackCharge_56
+  - first:
+      213: -2700040743736165029
+    second: ArachnaBasicAttackCharge_57
+  - first:
+      213: -6707066659499817660
+    second: ArachnaBasicAttackCharge_58
+  - first:
+      213: 9058529918551075989
+    second: ArachnaBasicAttackCharge_59
+  - first:
+      213: 3713594283549901931
+    second: ArachnaBasicAttackCharge_60
+  - first:
+      213: -1527348645829243798
+    second: ArachnaBasicAttackCharge_61
+  - first:
+      213: -7764344674875908945
+    second: ArachnaBasicAttackCharge_62
+  - first:
+      213: 5636379282029825910
+    second: ArachnaBasicAttackCharge_63
+  - first:
+      213: -9042699281352850552
+    second: ArachnaBasicAttackCharge_64
+  - first:
+      213: -3128343934504486413
+    second: ArachnaBasicAttackCharge_65
+  - first:
+      213: 4391204326654508775
+    second: ArachnaBasicAttackCharge_66
+  - first:
+      213: 7992893079582417481
+    second: ArachnaBasicAttackCharge_67
+  - first:
+      213: -4202195977388827948
+    second: ArachnaBasicAttackCharge_68
+  - first:
+      213: -1315290541157157941
+    second: ArachnaBasicAttackCharge_69
+  - first:
+      213: 2647122746370659881
+    second: ArachnaBasicAttackCharge_70
+  - first:
+      213: 2965812260430748957
+    second: ArachnaBasicAttackCharge_71
+  - first:
+      213: -4562912473845543363
+    second: ArachnaBasicAttackCharge_72
+  - first:
+      213: 1967942543868392485
+    second: ArachnaBasicAttackCharge_73
+  - first:
+      213: 8348327280115988177
+    second: ArachnaBasicAttackCharge_74
+  - first:
+      213: 1830242653902912379
+    second: ArachnaBasicAttackCharge_75
+  - first:
+      213: -1063566601964130284
+    second: ArachnaBasicAttackCharge_76
+  - first:
+      213: 3611941799832814380
+    second: ArachnaBasicAttackCharge_77
+  - first:
+      213: -1754935212008988439
+    second: ArachnaBasicAttackCharge_78
+  - first:
+      213: 7806160352815870736
+    second: ArachnaBasicAttackCharge_79
+  - first:
+      213: -5937769138541050558
+    second: ArachnaBasicAttackCharge_80
+  - first:
+      213: -8510462956503406133
+    second: ArachnaBasicAttackCharge_81
+  - first:
+      213: 5375213601212674657
+    second: ArachnaBasicAttackCharge_82
+  - first:
+      213: 5337884845140382021
+    second: ArachnaBasicAttackCharge_83
+  - first:
+      213: -8585224185681385414
+    second: ArachnaBasicAttackCharge_84
+  - first:
+      213: -3222519117388638886
+    second: ArachnaBasicAttackCharge_85
+  - first:
+      213: -6030934933848527973
+    second: ArachnaBasicAttackCharge_86
+  - first:
+      213: 9205560334874580204
+    second: ArachnaBasicAttackCharge_87
+  - first:
+      213: -6781231697925151917
+    second: ArachnaBasicAttackCharge_88
+  - first:
+      213: -8360383834277238710
+    second: ArachnaBasicAttackCharge_89
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 30
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ArachnaBasicAttackCharge_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 900
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab7973233fddedf30800000000000000
+      internalID: 4602359905808521146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArachnaBasicAttackCharge_1
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 900
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c8a4193279000030800000000000000
+      internalID: 3458774900009117894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArachnaBasicAttackCharge_2
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 900
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f9ce4e09466fc850800000000000000
+      internalID: 6399446059475454451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArachnaBasicAttackCharge_3
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 900
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02a0275e1cc14b3a0800000000000000
+      internalID: -6650659130615657952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArachnaBasicAttackCharge_4
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 900
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f441c9778814dc9a0800000000000000
+      internalID: -6211236256695970737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArachnaBasicAttackCharge_5
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 900
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b13579c05fe8623a0800000000000000
+      internalID: -6690503013282917605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArachnaBasicAttackCharge_6
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 900
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0849e5223647fe300800000000000000
+      internalID: 283573270674838656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArachnaBasicAttackCharge_7
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 900
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06acd60335c510c50800000000000000
+      internalID: 6629681638830623328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArachnaBasicAttackCharge_8
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 900
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a047448894cd2a620800000000000000
+      internalID: 2784029728045298698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArachnaBasicAttackCharge_9
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 900
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04ff726391d44a6c0800000000000000
+      internalID: -4133093787341160640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArachnaBasicAttackCharge_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 800
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f2fb2cc962ba3220800000000000000
+      internalID: 2466479913405510387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArachnaBasicAttackCharge_11
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 800
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 573a75025a5ab3360800000000000000
+      internalID: 7150490962011595637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArachnaBasicAttackCharge_12
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 800
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6575e829d604d1c20800000000000000
+      internalID: 3178767751347853142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArachnaBasicAttackCharge_13
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 800
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1f26c17dfe8e1cf0800000000000000
+      internalID: -279628907663708387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArachnaBasicAttackCharge_14
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 800
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2996c9fcc3557920800000000000000
+      internalID: 2987386067659168045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArachnaBasicAttackCharge_15
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 800
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04265b9f720181210800000000000000
+      internalID: 1303809856002941504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArachnaBasicAttackCharge_16
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 800
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5825bd3df558c72f0800000000000000
+      internalID: -973756772796116347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArachnaBasicAttackCharge_17
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 800
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e874ac571b3b06f20800000000000000
+      internalID: 3413926092313610126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArachnaBasicAttackCharge_18
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 800
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 359012a87897dc450800000000000000
+      internalID: 6110673892456597843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArachnaBasicAttackCharge_19
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 800
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa044a377c78a1d60800000000000000
+      internalID: 7861745390237008042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArachnaBasicAttackCharge_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 700
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b55e9d9765ac34510800000000000000
+      internalID: 1532290770996421979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArachnaBasicAttackCharge_21
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 700
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13ffbcbbce8454760800000000000000
+      internalID: 7441434140899802929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArachnaBasicAttackCharge_22
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 700
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0804a3a5d76bbefa0800000000000000
+      internalID: -5770317848044224384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArachnaBasicAttackCharge_23
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 700
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 849205fb4d0743af0800000000000000
+      internalID: -417584806393534136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArachnaBasicAttackCharge_24
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 700
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 892e614ac231a9500800000000000000
+      internalID: 403656199055532696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArachnaBasicAttackCharge_25
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 700
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0947f41bdc86eceb0800000000000000
+      internalID: -4697702128648489840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArachnaBasicAttackCharge_26
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 700
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 583a6ae7aee8c3b70800000000000000
+      internalID: 8880129703066116997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArachnaBasicAttackCharge_27
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 700
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 769204f9931077420800000000000000
+      internalID: 2627570254590519655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArachnaBasicAttackCharge_28
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 700
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c92d39aec2a794420800000000000000
+      internalID: 2614755391997989532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArachnaBasicAttackCharge_29
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 700
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40f0defee6e036b30800000000000000
+      internalID: 4279279940566585092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArachnaBasicAttackCharge_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 600
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4dbb44c061a09ae0800000000000000
+      internalID: -1544557235205849780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArachnaBasicAttackCharge_31
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 600
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f29903fff49caff0800000000000000
+      internalID: -23480071028632842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArachnaBasicAttackCharge_32
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 600
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d51deb15bd485260800000000000000
+      internalID: 7086499453920417240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArachnaBasicAttackCharge_33
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 600
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d69785b051a9f1d30800000000000000
+      internalID: 4404408375766972781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArachnaBasicAttackCharge_34
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 600
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2edcf7c1f08642b0800000000000000
+      internalID: -5600647310657921489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArachnaBasicAttackCharge_35
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 600
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80b01581ef26f8320800000000000000
+      internalID: 2562375556466281224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArachnaBasicAttackCharge_36
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 600
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 400afcbcdfa2ac460800000000000000
+      internalID: 7262664618622820356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArachnaBasicAttackCharge_37
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 600
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e549881b8e7ef9ca0800000000000000
+      internalID: -6007828391292005282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArachnaBasicAttackCharge_38
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 600
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03a7b0395804b4e10800000000000000
+      internalID: 2182909386832968240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArachnaBasicAttackCharge_39
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 600
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dea3a251fed2c0300800000000000000
+      internalID: 219600986709834477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArachnaBasicAttackCharge_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 500
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59fbe127a8108eb00800000000000000
+      internalID: 857937423145811861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArachnaBasicAttackCharge_41
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 500
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e18df8cd2bd10b20800000000000000
+      internalID: 3098999008299680232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArachnaBasicAttackCharge_42
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 500
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6a4cb7686229ded0800000000000000
+      internalID: -2388840295531001233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArachnaBasicAttackCharge_43
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 500
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c71e1558ae0634b60800000000000000
+      internalID: 7729127945873252732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArachnaBasicAttackCharge_44
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 500
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5f4cdc408ad927d0800000000000000
+      internalID: -2942580636929732773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArachnaBasicAttackCharge_45
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 500
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 871866b2156b67a10800000000000000
+      internalID: 1906911951974728056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArachnaBasicAttackCharge_46
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 500
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b969140b46cc5f50800000000000000
+      internalID: 6871585156954155448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArachnaBasicAttackCharge_47
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 500
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 563447ac2b3217f50800000000000000
+      internalID: 6877317356779225957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArachnaBasicAttackCharge_48
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 500
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 682c481f7d8f0b2e0800000000000000
+      internalID: -2111914618883095930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArachnaBasicAttackCharge_49
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 500
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 114b3333ba9f1de80800000000000000
+      internalID: -8155462936497507311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArachnaBasicAttackCharge_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 400
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e30f010e654ef250800000000000000
+      internalID: 5980293693961077736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArachnaBasicAttackCharge_51
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 400
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00eb076f4a218b4a0800000000000000
+      internalID: -6577486756056089088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArachnaBasicAttackCharge_52
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 400
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fd7472b28478bdf0800000000000000
+      internalID: -164253281710473740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArachnaBasicAttackCharge_53
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 400
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56069823faa88bc30800000000000000
+      internalID: 4375399523062210661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArachnaBasicAttackCharge_54
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 400
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7ad30cfb90e4a700800000000000000
+      internalID: 550812014998706813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArachnaBasicAttackCharge_55
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 400
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bf3c090d330effa0800000000000000
+      internalID: -5765166912307970126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArachnaBasicAttackCharge_56
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 400
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6727c9adc8766960800000000000000
+      internalID: 7594890646318950253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArachnaBasicAttackCharge_57
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 400
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5d368ebf37878ad0800000000000000
+      internalID: -2700040743736165029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArachnaBasicAttackCharge_58
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 400
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 445c5a3a866bbe2a0800000000000000
+      internalID: -6707066659499817660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArachnaBasicAttackCharge_59
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 400
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59c2c7e77fc56bd70800000000000000
+      internalID: 9058529918551075989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArachnaBasicAttackCharge_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 300
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b64c9ee4356598330800000000000000
+      internalID: 3713594283549901931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArachnaBasicAttackCharge_61
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 300
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6c8c25bf74cdcae0800000000000000
+      internalID: -1527348645829243798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArachnaBasicAttackCharge_62
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 300
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fac535cc7a18f3490800000000000000
+      internalID: -7764344674875908945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArachnaBasicAttackCharge_63
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 300
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67f42cc1811783e40800000000000000
+      internalID: 5636379282029825910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArachnaBasicAttackCharge_64
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 300
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8838844f9e0e18280800000000000000
+      internalID: -9042699281352850552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArachnaBasicAttackCharge_65
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 300
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f9bc9824c3e594d0800000000000000
+      internalID: -3128343934504486413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArachnaBasicAttackCharge_66
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 300
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ee766ac111b0fc30800000000000000
+      internalID: 4391204326654508775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArachnaBasicAttackCharge_67
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 300
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 942203068e57cee60800000000000000
+      internalID: 7992893079582417481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArachnaBasicAttackCharge_68
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 300
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dad923d50dcea5c0800000000000000
+      internalID: -4202195977388827948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArachnaBasicAttackCharge_69
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 300
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc375e5b8362fbde0800000000000000
+      internalID: -1315290541157157941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArachnaBasicAttackCharge_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 200
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 926974edc187cb420800000000000000
+      internalID: 2647122746370659881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArachnaBasicAttackCharge_71
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 200
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1d197d898ea82920800000000000000
+      internalID: 2965812260430748957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArachnaBasicAttackCharge_72
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 200
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3ecc37c7474da0c0800000000000000
+      internalID: -4562912473845543363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArachnaBasicAttackCharge_73
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 200
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52477a921598f4b10800000000000000
+      internalID: 1967942543868392485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArachnaBasicAttackCharge_74
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 200
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d634001e673bd370800000000000000
+      internalID: 8348327280115988177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArachnaBasicAttackCharge_75
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 200
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7bb6a62ff3566910800000000000000
+      internalID: 1830242653902912379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArachnaBasicAttackCharge_76
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 200
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41075fe7fc37d31f0800000000000000
+      internalID: -1063566601964130284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArachnaBasicAttackCharge_77
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 200
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c238b681ee1302230800000000000000
+      internalID: 3611941799832814380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArachnaBasicAttackCharge_78
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 200
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e0216409b735a7e0800000000000000
+      internalID: -1754935212008988439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArachnaBasicAttackCharge_79
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 200
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 013f3596b7d055c60800000000000000
+      internalID: 7806160352815870736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArachnaBasicAttackCharge_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 245cbfa9d6ec89da0800000000000000
+      internalID: -5937769138541050558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArachnaBasicAttackCharge_81
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc96e7b0803c4e980800000000000000
+      internalID: -8510462956503406133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArachnaBasicAttackCharge_82
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 162312c8a48989a40800000000000000
+      internalID: 5375213601212674657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArachnaBasicAttackCharge_83
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 541988e3cf9f31a40800000000000000
+      internalID: 5337884845140382021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArachnaBasicAttackCharge_84
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a386e5fe6182bd880800000000000000
+      internalID: -8585224185681385414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArachnaBasicAttackCharge_85
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a551526bfef4743d0800000000000000
+      internalID: -3222519117388638886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArachnaBasicAttackCharge_86
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9be67481a0dd4ca0800000000000000
+      internalID: -6030934933848527973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArachnaBasicAttackCharge_87
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce410a6f958b0cf70800000000000000
+      internalID: 9205560334874580204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArachnaBasicAttackCharge_88
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3536d8103b934e1a0800000000000000
+      internalID: -6781231697925151917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArachnaBasicAttackCharge_89
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a48acfba233f9fb80800000000000000
+      internalID: -8360383834277238710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      ArachnaBasicAttackCharge_51: -6577486756056089088
+      ArachnaBasicAttackCharge_69: -1315290541157157941
+      ArachnaBasicAttackCharge_1: 3458774900009117894
+      ArachnaBasicAttackCharge_22: -5770317848044224384
+      ArachnaBasicAttackCharge_13: -279628907663708387
+      ArachnaBasicAttackCharge_3: -6650659130615657952
+      ArachnaBasicAttackCharge_34: -5600647310657921489
+      ArachnaBasicAttackCharge_61: -1527348645829243798
+      ArachnaBasicAttackCharge_47: 6877317356779225957
+      ArachnaBasicAttackCharge_37: -6007828391292005282
+      ArachnaBasicAttackCharge_18: 6110673892456597843
+      ArachnaBasicAttackCharge_24: 403656199055532696
+      ArachnaBasicAttackCharge_5: -6690503013282917605
+      ArachnaBasicAttackCharge_76: -1063566601964130284
+      ArachnaBasicAttackCharge_28: 2614755391997989532
+      ArachnaBasicAttackCharge_20: 1532290770996421979
+      ArachnaBasicAttackCharge_41: 3098999008299680232
+      ArachnaBasicAttackCharge_31: -23480071028632842
+      ArachnaBasicAttackCharge_71: 2965812260430748957
+      ArachnaBasicAttackCharge_57: -2700040743736165029
+      ArachnaBasicAttackCharge_6: 283573270674838656
+      ArachnaBasicAttackCharge_30: -1544557235205849780
+      ArachnaBasicAttackCharge_21: 7441434140899802929
+      ArachnaBasicAttackCharge_26: 8880129703066116997
+      ArachnaBasicAttackCharge_74: 8348327280115988177
+      ArachnaBasicAttackCharge_67: 7992893079582417481
+      ArachnaBasicAttackCharge_62: -7764344674875908945
+      ArachnaBasicAttackCharge_4: -6211236256695970737
+      ArachnaBasicAttackCharge_42: -2388840295531001233
+      ArachnaBasicAttackCharge_58: -6707066659499817660
+      ArachnaBasicAttackCharge_38: 2182909386832968240
+      ArachnaBasicAttackCharge_65: -3128343934504486413
+      ArachnaBasicAttackCharge_66: 4391204326654508775
+      ArachnaBasicAttackCharge_12: 3178767751347853142
+      ArachnaBasicAttackCharge_29: 4279279940566585092
+      ArachnaBasicAttackCharge_79: 7806160352815870736
+      ArachnaBasicAttackCharge_87: 9205560334874580204
+      ArachnaBasicAttackCharge_33: 4404408375766972781
+      ArachnaBasicAttackCharge_55: -5765166912307970126
+      ArachnaBasicAttackCharge_73: 1967942543868392485
+      ArachnaBasicAttackCharge_64: -9042699281352850552
+      ArachnaBasicAttackCharge_16: -973756772796116347
+      ArachnaBasicAttackCharge_48: -2111914618883095930
+      ArachnaBasicAttackCharge_83: 5337884845140382021
+      ArachnaBasicAttackCharge_19: 7861745390237008042
+      ArachnaBasicAttackCharge_84: -8585224185681385414
+      ArachnaBasicAttackCharge_23: -417584806393534136
+      ArachnaBasicAttackCharge_35: 2562375556466281224
+      ArachnaBasicAttackCharge_11: 7150490962011595637
+      ArachnaBasicAttackCharge_80: -5937769138541050558
+      ArachnaBasicAttackCharge_88: -6781231697925151917
+      ArachnaBasicAttackCharge_86: -6030934933848527973
+      ArachnaBasicAttackCharge_39: 219600986709834477
+      ArachnaBasicAttackCharge_7: 6629681638830623328
+      ArachnaBasicAttackCharge_52: -164253281710473740
+      ArachnaBasicAttackCharge_45: 1906911951974728056
+      ArachnaBasicAttackCharge_43: 7729127945873252732
+      ArachnaBasicAttackCharge_70: 2647122746370659881
+      ArachnaBasicAttackCharge_0: 4602359905808521146
+      ArachnaBasicAttackCharge_32: 7086499453920417240
+      ArachnaBasicAttackCharge_10: 2466479913405510387
+      ArachnaBasicAttackCharge_15: 1303809856002941504
+      ArachnaBasicAttackCharge_14: 2987386067659168045
+      ArachnaBasicAttackCharge_46: 6871585156954155448
+      ArachnaBasicAttackCharge_40: 857937423145811861
+      ArachnaBasicAttackCharge_54: 550812014998706813
+      ArachnaBasicAttackCharge_9: -4133093787341160640
+      ArachnaBasicAttackCharge_78: -1754935212008988439
+      ArachnaBasicAttackCharge_60: 3713594283549901931
+      ArachnaBasicAttackCharge_89: -8360383834277238710
+      ArachnaBasicAttackCharge_75: 1830242653902912379
+      ArachnaBasicAttackCharge_82: 5375213601212674657
+      ArachnaBasicAttackCharge_85: -3222519117388638886
+      ArachnaBasicAttackCharge_25: -4697702128648489840
+      ArachnaBasicAttackCharge_53: 4375399523062210661
+      ArachnaBasicAttackCharge_81: -8510462956503406133
+      ArachnaBasicAttackCharge_50: 5980293693961077736
+      ArachnaBasicAttackCharge_77: 3611941799832814380
+      ArachnaBasicAttackCharge_36: 7262664618622820356
+      ArachnaBasicAttackCharge_59: 9058529918551075989
+      ArachnaBasicAttackCharge_63: 5636379282029825910
+      ArachnaBasicAttackCharge_17: 3413926092313610126
+      ArachnaBasicAttackCharge_8: 2784029728045298698
+      ArachnaBasicAttackCharge_49: -8155462936497507311
+      ArachnaBasicAttackCharge_2: 6399446059475454451
+      ArachnaBasicAttackCharge_68: -4202195977388827948
+      ArachnaBasicAttackCharge_72: -4562912473845543363
+      ArachnaBasicAttackCharge_44: -2942580636929732773
+      ArachnaBasicAttackCharge_27: 2627570254590519655
+      ArachnaBasicAttackCharge_56: 7594890646318950253
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
